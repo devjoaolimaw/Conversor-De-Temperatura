@@ -1,0 +1,14 @@
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\net7.0\Conversor de Temperatura.exe
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\net7.0\Conversor de Temperatura.deps.json
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\net7.0\Conversor de Temperatura.runtimeconfig.json
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\net7.0\Conversor de Temperatura.dll
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\net7.0\Conversor de Temperatura.pdb
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\Conversor de Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\Conversor de Temperatura.AssemblyInfoInputs.cache
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\Conversor de Temperatura.AssemblyInfo.cs
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\Conversor de Temperatura.csproj.CoreCompileInputs.cache
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\Conversor de Temperatura.dll
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\refint\Conversor de Temperatura.dll
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\Conversor de Temperatura.pdb
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\Conversor de Temperatura.genruntimeconfig.cache
+C:\dev\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\net7.0\ref\Conversor de Temperatura.dll
